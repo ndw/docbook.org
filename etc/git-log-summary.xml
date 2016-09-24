@@ -1,5 +1,13 @@
 <git-repo-info xmlns='http://nwalsh.com/ns/git-repo-info' root='/home/travis/build/ndw/docbook.org/'>
 <commit>
+<hash>0495f3160456b617d827335feace550fee50e944</hash>
+<file>css/website.css</file>
+<date>2016-09-24T10:58:02+01:00</date>
+<committer>Norman Walsh &lt;ndw@nwalsh.com&gt;</committer>
+<message>Tweak CSS for footer</message>
+</commit>
+
+<commit>
 <hash>716e8a378b84e46b2949495e951eb0c55c9afea2</hash>
 <file>.gitignore</file>
 <file>bin/git-log-summary</file>
