@@ -1,5 +1,12 @@
 <git-repo-info xmlns='http://nwalsh.com/ns/git-repo-info' root='/home/travis/build/ndw/docbook.org/'>
 <commit>
+<hash>2e566878983a656872437fad06cd179e4d6016a1</hash>
+<date>2016-11-18T13:48:30-06:00</date>
+<committer>Norman Walsh &lt;ndw@nwalsh.com&gt;</committer>
+<message>Merge pull request #16 from ndw/master</message>
+</commit>
+
+<commit>
 <hash>15443913ec89c21b8d56abb4725643a93b162b6e</hash>
 <file>style/webpage.xsl</file>
 <date>2016-11-18T13:38:03-06:00</date>
